@@ -14,7 +14,7 @@ require 'hookr'
 
 task :default => 'spec:run'
 
-PROJ.name = 'hookr'
+PROJ.name = 'schleyfox-hookr'
 PROJ.authors = 'Avdi Grimm'
 PROJ.email = 'avdi@avdi.org'
 PROJ.url = 'http://hookr.rubyforge.org'
